@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.shadow p-5 mb-5 bg-body rounded {
+  font-family: "Courier New", Courier, monospace;
+  position: fixed;
+}
+.container {
+  text-align: center;
+}
